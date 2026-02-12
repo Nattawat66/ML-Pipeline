@@ -1,0 +1,2 @@
+[console_scripts]
+pycaret-mcp-server = pycaret_mcp.server:main

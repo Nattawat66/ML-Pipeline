@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/pycaret_mcp/__init__.py
+src/pycaret_mcp/server.py
+src/pycaret_mcp_server.egg-info/PKG-INFO
+src/pycaret_mcp_server.egg-info/SOURCES.txt
+src/pycaret_mcp_server.egg-info/dependency_links.txt
+src/pycaret_mcp_server.egg-info/entry_points.txt
+src/pycaret_mcp_server.egg-info/requires.txt
+src/pycaret_mcp_server.egg-info/top_level.txt
